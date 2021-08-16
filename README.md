@@ -12,7 +12,7 @@
 
 <div align='center'>
 
-I am a primarily a front-end engineer with an interest in every part of the development pipeline, from back-end APIs, to scalable middleware layers, cloud delivery solutions and CI/CD workflows. I am a strong believer in Agile delivery and think that the most important thing for good quality code is that it is easily understood by others.
+I am a primarily a front-end engineer with an interest in every part of the development pipeline, from back-end APIs, to scalable middleware layers, cloud delivery solutions and CI/CD workflows. I am a strong believer in Agile delivery and think that the most important thing for good quality code is that it is easily understood by others. I am looking for a fully remote position, or a remote-friendly position based in Manchester.
   
 </div>
 
@@ -42,15 +42,15 @@ As a junior, a lot of my time was spent pairing with the more experienced member
 
 ## Education
 
-### Makers Academy | 27/05/19 to 13/09/19
+### Makers Academy | May 2019 to September 2019
 
 A language-agnostic 16 week coding Bootcamp, focusing on OOP and TDD.
 
-### Imperial College London | 01/10/16 to 30/09/17
+### Imperial College London | October 2016 to September 2017
 
 Biomedical Engineering, MSc
 
-### University of Bradford | 15/09/12 to 31/05/15
+### University of Bradford | September 2012 to May 2015
 
 Biomedical Engineering, BEng - First Class
 
