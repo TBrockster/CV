@@ -12,7 +12,9 @@
 
 <div align='center'>
 
-I am primarily a front-end engineer with an interest in every part of the development pipeline, from back-end APIs to scalable middleware layers, cloud delivery solutions and CI/CD workflows. I am a strong believer in Agile delivery and think that the most important thing for good quality code is that it is easily understood by others. I am looking for a fully remote position or a remote-friendly position based in Manchester.
+I am primarily a front-end engineer with an interest in every part of the development pipeline, from back-end APIs to scalable middleware layers, cloud delivery solutions and CI/CD workflows. I am a strong believer in Agile delivery and think that the most important thing for good quality code is that it is easily understood by others. 
+  
+I am looking for a fully remote position or a remote-friendly position based in Manchester.
   
 </div>
 
@@ -22,11 +24,9 @@ I am primarily a front-end engineer with an interest in every part of the develo
 
 ### Babylon | January 2021 - Present | Software Engineer
 
-Currently, I am on an international team working to deliver and maintain web-based applications, for use by internal users, to provide remote healthcare and lifestyle support. The applications are mostly in React, split between JavaScript and Typescript, with some legacy ruby pages served via an IFrame. The work I do covers both creating and maintaining accessible and responsive UI/UX components, as well as sourcing the needed data from our microservices in a scalable way via a federated GraphQL middleware.
+Currently, I am on an international team working to deliver and maintain web-based applications, for use by internal users, to provide remote healthcare and lifestyle support. The applications are mostly in React, split between JavaScript and Typescript, with some legacy ruby pages served via an IFrame. The work I do covers both creating and maintaining accessible and responsive UI/UX components, as well as sourcing the needed data from our microservices in a scalable way via a federated GraphQL middleware. This work allows our support staff and clinicians to provide a higher quality of healthcare, and lets them do it easily and quickly.
 
-The biggest piece of work I have done in this role was the migration of our member search from a monolithic, shared GraphQL instance to a much more scalable federated graph. This involved a lot of work to identify data points and map them to the new field names and structure, to ensure feature parity between the two versions. It also required a large increase in test coverage and manual testing to ensure it was working as intended, as well as a fairly deep redesign of the previous architecture, including migrating higher-order components to hooks, to reduce complexity increase the maintainability and extensibility of the feature. Finally, a lot of thought and care went into planning the release process for the feature, ensuring it was properly feature-flagged to allow it to be gradually and specifically rolled out to various different users and environments with minimum confusion and negative impact.
-
-As the long-serving member of my team, I have a lot of ownership and input to our documentation, such as release process outline, style guides and contribution standards. This also often leaves me with the most context for niche areas of the product and involves me in a lot of strategic planning and architectural discussions.
+As the longest-serving member of my team, I have a lot of ownership and input to our documentation, such as release process outline, style guides and contribution standards. This documentation allows new members of the team to onboard quickly and easily and begin contributing productive work sooner. This domain knowledge also often leaves me with the most context for niche areas of the product and involves me in a lot of strategic planning and architectural discussions.
 
 I am also lucky enough to have a lot of opportunities to mentor some of the junior and newly-onboarding members of the team, as well as do quite a lot of interviewing for different roles across the business.
 
@@ -34,10 +34,7 @@ I am also lucky enough to have a lot of opportunities to mentor some of the juni
 
 I was hired into this role from Makers Academy Bootcamp, with a mind to join a Ruby-based back-end team, but ended up in a team that was just starting to migrate from supporting ruby pages into developing new React pages. This caught my interest and led to me working mostly on the front-end.
 
-The typical piece of work for me during this period was taking a feature from our legacy Ruby page, identifying or creating an endpoint for the necessary data, then linking this endpoint, through a data source/resolver pair in our GraphQL middleware layer, into the UI elements created to match provided designs. This was mostly done by TDD and included writing both E2E and unit tests for each element of the feature.
-
 As a junior, a lot of my time was spent pairing with the more experienced members of the team or doing work very similar to already completed work. This was a great way to learn both broad and specific knowledge, and I was promoted from this role fairly quickly.
-
 
 ---
 
